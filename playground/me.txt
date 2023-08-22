@@ -1,0 +1,5 @@
+{{#user}}
+Name: Spandanil Dutta
+Skills: HTML, CSS, JS, NodeJS
+Email: duttaspandanil@gmail.com
+{{/user}}
